@@ -25,8 +25,4 @@ src="https://img.shields.io/twitter/follow/Samarth_Sable45?logo=twitter&style=fo
 /></a>
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Samarth0045"><img src="https://github-readme-stats.vercel.app/api?username=Samarth0045&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Samarth0045's GitHub stats" /></a>
-
 <a href="https://github.com/Samarth0045" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samarth0045&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
